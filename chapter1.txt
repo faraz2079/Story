@@ -1,1 +1,2 @@
-hello it is faraz here how are you
+hello it is faraz here how are you , 
+and this is a change from another branch
